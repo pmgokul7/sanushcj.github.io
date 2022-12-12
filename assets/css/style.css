@@ -443,35 +443,35 @@ img {
   background-color: var(--first-color);
 }
 .skills__html {
-  width: 95%;
+  width: 65%;
 }
 .skills__css {
-  width: 84%;
+  width: 60%;
 }
 .skills__javascript {
-  width: 50%;
+  width: 45%;
 }
 .skills__flutter {
-  width: 89%;
+  width: 79%;
 }
 
 .skills__dart{
-  width: 96%;
+  width: 55%;
 }
 
 
 .skills__figma {
-  width: 93%;
+  width: 70%;
 }
 .skills__adobexd {
-  width: 96%;
+  width: 61%;
 }
 .skills__photoshop {
-  width: 83%;
+  width: 78%;
 }
 
 .skills__git {
-  width: 91%;
+  width: 70%;
 }
 .skills__close .skills__list {
   height: 0;
